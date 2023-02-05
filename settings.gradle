@@ -1,0 +1,3 @@
+rootProject.name = 'GreenBot'
+include 'dispatcher'
+
